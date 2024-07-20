@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FlavioMVP/FlavioMVP/output/snake.svg" alt="Snake animation" />
+
 
 ###
